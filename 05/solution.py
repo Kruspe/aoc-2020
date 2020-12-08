@@ -1,6 +1,3 @@
-import itertools
-
-
 def get_row(row_id):
     upper_bound = 127
     lower_bound = 0
